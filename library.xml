@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?> <
+<Library> 
+    <Book catalogue="Technical"> 
+        <item>
+            <ISBN>978-0190872670</ISBN> 
+            <Title>Technical Editing: An Introduction to Editing in the Workplace</Title> 
+            <Author>Donald H. Cunningham </Author>
+        </item>
+        <item>
+            <ISBN>978-0205786718</ISBN> 
+            <Title>Technical Editing (Allyn & Bacon Series in Technical Communication)</Title> 
+            <Author> Angela Eaton</Author>
+        </item>
+    </Book> 
+    <Book catalogue="Cookery"> 
+        <item>
+            <ISBN>9781529034981</ISBN> 
+            <Title>PINCH OF NOM QUICK AND EASY H/B</Title> 
+            <Author>Kate Allinson</Author>
+        </item>
+        <item>
+            <ISBN>9780717189786</ISBN> 
+            <Title>MIDWEEK MEALS H/B</Title> 
+            <Author>Neven Maguire </Author>
+        </item>
+    </Book> 
+</Library> 
